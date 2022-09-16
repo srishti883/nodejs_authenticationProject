@@ -1,0 +1,10 @@
+first we need t decide 
+the database and model required for login page.
+the database and model required for registration page.
+login and registration deals with users..will create users table.(collection)
+collection is for login and registration
+in app.js file we are not writting api like get post
+will make separate folder where all routes are define. and connecting with controller.
+url structure:localhost 9000/api/users/:id,api/courses/:id
+here api is base url.
+after controller we ned to import it in route users
